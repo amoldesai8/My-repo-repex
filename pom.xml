@@ -31,7 +31,7 @@
   <build>
     <plugins>
       <plugin>
-        <!-- Build an executable JAR -->
+        <!-- Build an executable sample JAR -->
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-jar-plugin</artifactId>
         <version>3.0.2</version>
@@ -86,3 +86,4 @@
         </snapshotRepository>
     </distributionManagement>
 </project>
+
